@@ -62,7 +62,7 @@ HTTP methods define operations that can be performed on a resource:
 
 ---
 
-## **HTTP Status Codes**  
+## **HTTP Status Codes (Commonly Used)**  
 Status codes indicate the outcome of an HTTP request.  
 
 ### **Categories**  
@@ -103,7 +103,3 @@ Security headers help protect applications against common vulnerabilities.
 
 ---
 
-## **How to Use This Repository**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/HTTP-Complete-Guide.git
